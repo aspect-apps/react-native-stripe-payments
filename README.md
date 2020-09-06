@@ -1,4 +1,7 @@
 ![React Native Stripe payments](https://raw.githubusercontent.com/Fitpassu/react-native-stripe-payments/master/react-native-stripe-payments.png)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A well typed React Native library providing support for Stripe payments on both iOS and Android.
 
@@ -103,3 +106,22 @@ stripe.confirmPaymentWithCardParams('client_secret_from_backend', cardParams)
     // error performing payment
   )
 ```
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/ChesterSim"><img src="https://avatars2.githubusercontent.com/u/12388321?v=4" width="100px;" alt=""/><br /><sub><b>Chester Sim</b></sub></a><br /><a href="https://github.com/aspect-apps/react-native-stripe-payments/commits?author=ChesterSim" title="Documentation">📖</a> <a href="https://github.com/aspect-apps/react-native-stripe-payments/commits?author=ChesterSim" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
